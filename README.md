@@ -1,5 +1,6 @@
 # TristanReinhart
-Arizona State University, Ira A. Fulton Schools of Engineering  Tempe, Arizona Bachelor of Science in Electrical Engineering, Barrett, The Honors College - Expected May 2030
+Arizona State University, Ira A. Fulton Schools of Engineering  
+Tempe, Arizona Bachelor of Science in Electrical Engineering, Barrett, The Honors College - Expected May 2030
 
 ## contact info
 * **personal email** [tristanreinhart7@gmail.com](mailto:tristanreinhart7@gmail.com)
