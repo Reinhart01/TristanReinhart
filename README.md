@@ -13,8 +13,8 @@ Tempe, Arizona Bachelor of Science in Electrical Engineering, Barrett, The Honor
 * [Egg Drop](https://drive.google.com/file/d/1-6jQHmydj7QBfgP2BMAS8AJuUwo_7CQ0/view?usp=sharing)
 * [Glider](https://drive.google.com/file/d/1y26WekovZrPBnmuVzJPf2dkDckLKbpR_/view?usp=sharing)
 ## Information
-* **portfolio** [View my portfolio](https://github.com)
-* **resume** [View my resume](https://docs.google.com/document/d/1YfP8tbUoENJv3WNAXy0PAb_-N2GuPvvLBFQQQGQelDE/edit?tab=t.0)
+* [View my portfolio](https://github.com)
+* [View my resume](https://docs.google.com/document/d/1YfP8tbUoENJv3WNAXy0PAb_-N2GuPvvLBFQQQGQelDE/edit?tab=t.0)
 ## other info
-* **linked in** [View my linked in](https://www.linkedin.com/in/tristan-reinhart-156b16390/)
+*  [View my LinkedIn page](https://www.linkedin.com/in/tristan-reinhart-156b16390/)
 
